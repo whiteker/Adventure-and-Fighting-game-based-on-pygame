@@ -1,6 +1,6 @@
 # Adventure and fighting game
 Based on pygame      
-if you have any questoins, feel free to submit issues.     
+if you have any questions, please submit issues.     
 before running the code,you need to modify the image path.      
 Looking forward to your fork.   
 
